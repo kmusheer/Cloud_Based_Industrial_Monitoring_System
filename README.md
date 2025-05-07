@@ -146,4 +146,5 @@ CloudSensorMonitor_ARM7/
 Feel free to enhance or customize this system based on your needs.
 
 > **Author**: \MOHD MOSHIR KHAN
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/moshir-khan/)
 > **Technologies**: Embedded C, KEIL, LPC2148, I2C, UART, IoT, RTC, ThingSpeak
